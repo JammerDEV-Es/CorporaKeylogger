@@ -43,7 +43,7 @@ Specifically the placeholder in the line 15 and 16.
 
 #
 
-### 3- Now go to the directory where you have the .py file from the CMD and type the following:
+### 3 - Now go to the directory where you have the .py file from the CMD and type the following:
 
 #### On the CMD: <br> `pyinstaller --onefile --noconsole  'Corpora Keylogger.py`
 
@@ -51,7 +51,9 @@ Now you have the keylogger .exe file, the Python libraries are not needed, so a 
 
 # Extra Steps (Optional):
 
-### 5- To increase the keylogger's credibility, we'll need to disguise it somehow so it goes unnoticed. The first step to avoid detection is to associate it with the name of any service that's active in Windows, like `WMI Provider Host`, `COM Surrogate`, or `runSW`.
+### 5 - Set service name 
+
+### To increase the keylogger's credibility, we'll need to disguise it somehow so it goes unnoticed. The first step to avoid detection is to associate it with the name of any service that's active in Windows, like `WMI Provider Host`, `COM Surrogate`, or `runSW`.
 
 <div align="center">
 </div>
@@ -61,12 +63,16 @@ So rename the file to a service similar to those, otherwise, you can search your
 
 #
 
-### 6 -And the last and most important step to avoid suspicion is to change the program's .ico file, which by default will look something like this if you entered the exact parameters in the command prompt regarding the pyinstaller.
+### 6 - Change Icon 
+
+### And the last and most important step to avoid suspicion is to change the program's .ico file, which by default will look something like this if you entered the exact parameters in the command prompt regarding the pyinstaller.
 
 <div align="center">
 </div>
-<img width="170" height="230" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/.ico%20Change.png">
+<img width="170" height="230" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/.ico.png">
 </p>
+
+And finally, it will be completely discreet; its consumption is not high, so it won't be immediately noticeable in the task manager.
 
 
 
