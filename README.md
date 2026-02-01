@@ -4,30 +4,8 @@
 #
 If you have ever used a keylogger, you know that the text reports all keystrokes in a raw format like `[CAPSLOCK]`, `[SPACE]`, `[BACKSPACE]`. This is a problem that will no longer occur with this keylogger.
 
-#
 
-## First version: 
-This is the first keylogger version that shows raw info.
-
-<div align="center">
-</div>
-<img width="400" height="400" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/FirstVersion.jpg">
-</p>
-
-#
-
-## Actual Version:
-This is the version that doesn't show a raw format and embellishes it so that all the information is clear.
-
-
-<div align="center">
-</div>
-<img width="400" height="400" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/LastVersion.jpg">
-</p>
-
-#
-
-## Next, I will explain all the steps to carry it out and be able to use it correctly.
+# 📋 Instructions: 
 
 ### 1- Edit the `.py` file with any editor and replace the following characters. <br>
 Specifically the placeholder in the line 15 and 16.
@@ -51,7 +29,7 @@ Now you have the keylogger .exe file, the Python libraries are not needed, so a 
 
 # Extra Steps (Optional):
 
-### 5 - Set service name 
+### 4 - Set service name 
 
 ### To increase the keylogger's credibility, we'll need to disguise it somehow so it goes unnoticed. The first step to avoid detection is to associate it with the name of any service that's active in Windows, like `WMI Provider Host`, `COM Surrogate`, or `runSW`.
 
@@ -63,7 +41,7 @@ So rename the file to a service similar to those, otherwise, you can search your
 
 #
 
-### 6 - Change Icon 
+### 5 - Change Icon 
 
 ### And the last and most important step to avoid suspicion is to change the program's .ico file, which by default will look something like this if you entered the exact parameters in the command prompt regarding the pyinstaller.
 
