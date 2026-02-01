@@ -6,15 +6,28 @@
 
 #
 
+# Windows 
+
+### Here are the `instructions` for setting up the keylogger:
+
+#### ● [Instructions](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Instructions.md) 
+
+
+# Linux
+
+### Here are the Linux `instructions` for setting up the keylogger:
+
+#### ● [Linux Instructions](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Linux%20Instructions.md) 
+
+#
+
 ### Here you can see a comparison of the `versions`:
 
 #### ● [Corpora Keylogger Comparation](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/CorporaCompare.md) 
 
 #
 
-### Here are the `instructions` for setting up the keylogger:
 
-#### ● [Instructions](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Instructions.md) 
 
 
 
