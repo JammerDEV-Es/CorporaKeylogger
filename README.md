@@ -59,6 +59,14 @@ Now you have the keylogger .exe file, the Python libraries are not needed, so a 
 </p>
 So rename the file to a service similar to those, otherwise, you can search your task manager for more common service names.
 
+#
+
+### 6 -And the last and most important step to avoid suspicion is to change the program's .ico file, which by default will look something like this if you entered the exact parameters in the command prompt regarding the pyinstaller.
+
+<div align="center">
+</div>
+<img width="170" height="230" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/.ico%20Change.png">
+</p>
 
 
 
