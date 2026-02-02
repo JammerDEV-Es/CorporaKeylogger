@@ -6,6 +6,7 @@ Specifically the placeholder in the line 15 and 16.
 </div>
 <img width="512" height="512" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/Placeholder.png">
 </p>
+You can also change the log sent time, by default it's set to about 30 seconds, but you can change it to more or less, according to your preference.
 
 #
 
