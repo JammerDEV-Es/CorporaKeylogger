@@ -4,7 +4,14 @@
 #
 ### If you have ever used a keylogger, you know that the text reports all keystrokes in a raw format like `[CAPSLOCK]`, `[SPACE]`, `[BACKSPACE]`. This is a problem that will no longer occur with this keylogger.  
 
+<div align="center">
+</div>
+<img width="1024" height="1024" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/test.gif">
+</p>
+
 #
+
+
 
 # Windows 
 
