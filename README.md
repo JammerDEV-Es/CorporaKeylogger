@@ -17,9 +17,8 @@
 <img width="400" height="400" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/Windows.png">
 </p>
 
-### Here are the `instructions` for setting up the keylogger:
+### Here are the [Instructions](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Instructions.md) for setting up the `keylogger`
 
-#### ● [Instructions](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Instructions.md) 
 
 #
 
@@ -28,9 +27,7 @@
 <img width="300" height="300" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/lnx.png">
 </p>
 
-### Here are the Linux `instructions` for setting up the keylogger:
-
-#### ● [Linux Instructions](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Linux%20Instructions.md) 
+### Here are the Linux [Instructions](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Linux%20Instructions.md) for setting up the `keylogger`
 
 #
 
