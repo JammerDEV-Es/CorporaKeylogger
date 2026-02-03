@@ -25,7 +25,7 @@
 
 <div align="center">
 </div>
-<img width="300" height="300" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/Lnux.png">
+<img width="300" height="300" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/lnx.png">
 </p>
 
 ### Here are the Linux `instructions` for setting up the keylogger:
