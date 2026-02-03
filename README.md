@@ -12,15 +12,21 @@
 #
 
 
-
-# Windows 
+<div align="center">
+</div>
+<img width="400" height="400" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/Windows.png">
+</p>
 
 ### Here are the `instructions` for setting up the keylogger:
 
 #### ● [Instructions](https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Instructions.md) 
 
+#
 
-# Linux
+<div align="center">
+</div>
+<img width="300" height="300" src="https://github.com/JammerDEV-Es/CorporaKeylogger/blob/main/Images/Lnux.png">
+</p>
 
 ### Here are the Linux `instructions` for setting up the keylogger:
 
